@@ -9,3 +9,5 @@ on_success:
 - bash upload
  - curl -s -o copilot https://copilot-test.blackducksoftware.com/ci/appveyor/scripts/upload
  - bash copilot
+ - curl -s -o copilot https://copilot-test.blackducksoftware.com/ci/appveyor/scripts/upload
+ - bash copilot
